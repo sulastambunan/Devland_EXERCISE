@@ -1,4 +1,4 @@
-package shape;
+package shapeinheritance;
 
 public abstract class Shape {
     //bisa punya atirbut

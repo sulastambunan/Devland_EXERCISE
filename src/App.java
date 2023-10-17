@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import shape.Circle;
-import shape.Rectangle;
-import shape.Shape;
+import shapeinheritance.Circle;
+import shapeinheritance.Rectangle;
+import shapeinheritance.Shape;
 
 public class App {
     public static void main(String[] args) throws Exception {
